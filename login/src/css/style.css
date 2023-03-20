@@ -168,15 +168,11 @@ body{
 
 .footerHelp{
     margin: 20px 0px;
+    text-decoration: none;
     display: flex;
     flex-wrap: wrap;
 }
 
-.footerHelpItem {
-    width: 250px;
-    min-width: 200px;
-    margin-bottom: 15px;
-}
 
 
 
